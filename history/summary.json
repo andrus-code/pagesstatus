@@ -54,6 +54,24 @@
     "dailyMinutesDown": {}
   },
   {
+    "name": "Frais",
+    "url": "https://frais.sed.com.ar",
+    "icon": "https://favicons.githubusercontent.com/frais.sed.com.ar",
+    "slug": "frais",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {}
+  },
+  {
     "name": "Test Broken Site",
     "url": "https://thissitedoesnotexist.koj.co",
     "icon": "https://favicons.githubusercontent.com/thissitedoesnotexist.koj.co",

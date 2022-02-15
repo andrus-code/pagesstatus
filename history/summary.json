@@ -58,7 +58,7 @@
     "url": "https://frais.sed.com.ar",
     "icon": "https://favicons.githubusercontent.com/frais.sed.com.ar",
     "slug": "frais",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 1069,
     "timeMonth": 1085,
     "timeYear": 1085,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-15": 0
+    }
   },
   {
     "name": "Test Broken Site",

@@ -11,6 +11,8 @@ sites:
     url: https://news.ycombinator.com
   - name:  Frais
     url: https://frais.sed.com.ar
+  - name:  DCIC
+    url: https://cs.uns.edu.ar/~devcs
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 

@@ -60,11 +60,11 @@
     "url": "https://frais.sed.com.ar",
     "icon": "https://favicons.githubusercontent.com/frais.sed.com.ar",
     "slug": "frais",
-    "status": "up",
+    "status": "down",
     "uptime": "99.81%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.94%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.81%",
     "time": 1060,
     "timeDay": 1020,
@@ -72,6 +72,7 @@
     "timeMonth": 1028,
     "timeYear": 1060,
     "dailyMinutesDown": {
+      "2022-03-25": 0,
       "2022-03-15": 28,
       "2022-02-17": 39,
       "2022-02-15": 65

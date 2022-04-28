@@ -87,9 +87,9 @@
     "url": "https://cs.uns.edu.ar/~devcs",
     "icon": "https://favicons.githubusercontent.com/cs.uns.edu.ar",
     "slug": "dcic",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.96%",
@@ -99,6 +99,7 @@
     "timeMonth": 1459,
     "timeYear": 1423,
     "dailyMinutesDown": {
+      "2022-04-28": 0,
       "2022-04-06": 19
     }
   },

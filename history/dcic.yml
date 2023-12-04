@@ -1,7 +1,7 @@
 url: https://cs.uns.edu.ar/~devcs
-status: up
-code: 200
-responseTime: 1370
-lastUpdated: 2023-12-03T23:04:39.903Z
+status: down
+code: 500
+responseTime: 1595
+lastUpdated: 2023-12-04T01:37:47.472Z
 startTime: 2022-03-24T23:54:41.000Z
 generator: Upptime <https://github.com/upptime/upptime>

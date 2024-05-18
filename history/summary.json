@@ -71,9 +71,9 @@
     "url": "https://frais.sed.com.ar",
     "icon": "https://icons.duckduckgo.com/ip3/frais.sed.com.ar.ico",
     "slug": "frais",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.92%",
@@ -83,6 +83,7 @@
     "timeMonth": 1226,
     "timeYear": 1284,
     "dailyMinutesDown": {
+      "2024-05-18": 0,
       "2024-05-06": 17,
       "2024-02-06": 323,
       "2024-01-04": 16,
@@ -124,7 +125,7 @@
     "time": 1495,
     "timeDay": 2152,
     "timeWeek": 1565,
-    "timeMonth": 1443,
+    "timeMonth": 1442,
     "timeYear": 1500,
     "dailyMinutesDown": {
       "2024-05-16": 17,

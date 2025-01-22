@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 107,
-    "timeDay": 129,
-    "timeWeek": 96,
+    "timeDay": 88,
+    "timeWeek": 95,
     "timeMonth": 99,
     "timeYear": 106,
     "dailyMinutesDown": {
@@ -31,10 +31,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 230,
-    "timeDay": 154,
-    "timeWeek": 228,
-    "timeMonth": 251,
-    "timeYear": 237,
+    "timeDay": 38,
+    "timeWeek": 222,
+    "timeMonth": 245,
+    "timeYear": 236,
     "dailyMinutesDown": {}
   },
   {
@@ -49,10 +49,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 298,
-    "timeDay": 388,
-    "timeWeek": 299,
-    "timeMonth": 304,
-    "timeYear": 299,
+    "timeDay": 379,
+    "timeWeek": 332,
+    "timeMonth": 303,
+    "timeYear": 300,
     "dailyMinutesDown": {
       "2024-10-27": 86
     }
@@ -69,8 +69,8 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.84%",
     "time": 1234,
-    "timeDay": 1277,
-    "timeWeek": 1499,
+    "timeDay": 902,
+    "timeWeek": 1476,
     "timeMonth": 1499,
     "timeYear": 1262,
     "dailyMinutesDown": {
@@ -98,16 +98,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.uns.edu.ar.ico",
     "slug": "dcic",
     "status": "up",
-    "uptime": "98.74%",
+    "uptime": "98.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.82%",
     "uptimeYear": "98.71%",
-    "time": 1513,
-    "timeDay": 1388,
-    "timeWeek": 1491,
-    "timeMonth": 1390,
-    "timeYear": 1507,
+    "time": 1512,
+    "timeDay": 1148,
+    "timeWeek": 1411,
+    "timeMonth": 1391,
+    "timeYear": 1506,
     "dailyMinutesDown": {
       "2025-01-13": 658,
       "2025-01-12": 437,
@@ -127,8 +127,7 @@
       "2024-05-23": 88,
       "2024-05-20": 426,
       "2024-05-16": 17,
-      "2024-04-30": 126,
-      "2024-01-23": 1077
+      "2024-04-30": 126
     }
   },
   {

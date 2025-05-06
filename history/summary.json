@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 109,
-    "timeDay": 96,
-    "timeWeek": 108,
-    "timeMonth": 103,
+    "timeDay": 200,
+    "timeWeek": 126,
+    "timeMonth": 107,
     "timeYear": 110,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 224,
-    "timeDay": 79,
-    "timeWeek": 138,
-    "timeMonth": 195,
+    "timeDay": 63,
+    "timeWeek": 140,
+    "timeMonth": 193,
     "timeYear": 225,
     "dailyMinutesDown": {}
   },
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 304,
-    "timeDay": 441,
-    "timeWeek": 354,
-    "timeMonth": 337,
-    "timeYear": 311,
+    "time": 305,
+    "timeDay": 462,
+    "timeWeek": 351,
+    "timeMonth": 340,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2024-10-27": 86
     }
@@ -67,8 +67,8 @@
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.90%",
     "time": 1221,
-    "timeDay": 906,
-    "timeWeek": 1003,
+    "timeDay": 972,
+    "timeWeek": 994,
     "timeMonth": 1289,
     "timeYear": 1251,
     "dailyMinutesDown": {
@@ -87,8 +87,7 @@
       "2024-06-21": 19,
       "2024-06-18": 18,
       "2024-06-02": 20,
-      "2024-05-18": 19,
-      "2024-05-06": 17
+      "2024-05-18": 19
     }
   },
   {
@@ -97,16 +96,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cs.uns.edu.ar.ico",
     "slug": "dcic",
     "status": "up",
-    "uptime": "97.53%",
+    "uptime": "97.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.03%",
     "uptimeYear": "94.94%",
     "time": 1598,
-    "timeDay": 1157,
-    "timeWeek": 1390,
-    "timeMonth": 1439,
-    "timeYear": 1663,
+    "timeDay": 1128,
+    "timeWeek": 1392,
+    "timeMonth": 1443,
+    "timeYear": 1661,
     "dailyMinutesDown": {
       "2025-04-25": 677,
       "2025-04-24": 188,

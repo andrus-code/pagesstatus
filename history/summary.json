@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 114,
-    "timeDay": 304,
-    "timeWeek": 172,
+    "time": 113,
+    "timeDay": 85,
+    "timeWeek": 169,
     "timeMonth": 183,
     "timeYear": 116,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 195,
-    "timeDay": 186,
-    "timeWeek": 226,
+    "timeDay": 43,
+    "timeWeek": 204,
     "timeMonth": 194,
     "timeYear": 179,
     "dailyMinutesDown": {}
@@ -47,10 +47,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 312,
-    "timeDay": 430,
-    "timeWeek": 311,
-    "timeMonth": 295,
-    "timeYear": 317,
+    "timeDay": 98,
+    "timeWeek": 283,
+    "timeMonth": 294,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-05-09": 23
     }
@@ -61,14 +61,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/frais.sed.com.ar.ico",
     "slug": "frais",
     "status": "up",
-    "uptime": "99.03%",
+    "uptime": "99.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.69%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.79%",
     "time": 1202,
-    "timeDay": 1014,
-    "timeWeek": 1167,
+    "timeDay": 1125,
+    "timeWeek": 1176,
     "timeMonth": 1092,
     "timeYear": 1168,
     "dailyMinutesDown": {
@@ -112,11 +112,11 @@
     "uptimeWeek": "99.38%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "95.73%",
-    "time": 1696,
-    "timeDay": 1130,
-    "timeWeek": 2474,
-    "timeMonth": 2302,
-    "timeYear": 1791,
+    "time": 1697,
+    "timeDay": 1647,
+    "timeWeek": 2539,
+    "timeMonth": 2311,
+    "timeYear": 1793,
     "dailyMinutesDown": {
       "2026-01-20": 63,
       "2026-01-04": 27,
@@ -154,8 +154,7 @@
       "2025-02-03": 675,
       "2025-02-02": 391,
       "2025-02-01": 162,
-      "2025-01-28": 854,
-      "2025-01-27": 1205
+      "2025-01-28": 854
     }
   },
   {

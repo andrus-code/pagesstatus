@@ -85,17 +85,17 @@
     "url": "https://cs.uns.edu.ar/~devcs",
     "icon": "https://icons.duckduckgo.com/ip3/cs.uns.edu.ar.ico",
     "slug": "dcic",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "95.08%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "95.07%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.29%",
-    "time": 1952,
-    "timeDay": 2277,
-    "timeWeek": 2067,
-    "timeMonth": 1997,
-    "timeYear": 2049,
+    "time": 1953,
+    "timeDay": 1809,
+    "timeWeek": 1986,
+    "timeMonth": 1967,
+    "timeYear": 2047,
     "dailyMinutesDown": {
       "2025-11-20": 16,
       "2025-11-23": 18,
@@ -118,7 +118,8 @@
       "2026-06-04": 402,
       "2026-09-22": 50,
       "2026-09-21": 318,
-      "2026-10-22": 496
+      "2026-10-22": 496,
+      "2026-10-26": 1
     }
   },
   {
